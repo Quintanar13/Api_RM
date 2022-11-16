@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Body = styled.body`
+const Cuerpo = styled.body`
     background-image: url("images/FondoT.jpg");
     background-color: #000000;
     background-position: center;
@@ -8,4 +8,4 @@ const Body = styled.body`
     background-size: cover;
 `;
 
-export default Body;
+export default Cuerpo;
